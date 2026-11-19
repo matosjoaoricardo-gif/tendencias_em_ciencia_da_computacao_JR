@@ -1,16 +1,16 @@
 # Tendências em ciência da computação
 
-🚀 Tendências em Ciência da Computação 2026
+🚀 *Tendências em Ciência da Computação 2026*
 
 Repositório da disciplina Tendências em Ciência da Computação, ministrada pela Prof.ª Kadidja Valéria, com foco em Engenharia de Prompt, Inteligência Artificial Generativa, Programação Assistida por IA, Low Code/No Code e Agentes Inteligentes.
 
-📚 Sobre a disciplina
+📚 *Sobre a disciplina*
 
 Este repositório foi criado para acompanhar todas as atividades desenvolvidas ao longo do semestre, reunindo materiais, exercícios, projetos e anotações relacionados às tendências atuais da Computação e ao uso da Inteligência Artificial no desenvolvimento de software.
 
 A disciplina tem como objetivo apresentar conceitos modernos de IA, explorar ferramentas generativas e desenvolver habilidades práticas na criação de soluções inteligentes.
 
-🎯 Objetivos
+🎯 *Objetivos*
 
 Ao longo da disciplina serão desenvolvidas competências para:
 
@@ -21,7 +21,10 @@ Utilizar IA como apoio ao desenvolvimento de software;
 Explorar ferramentas Low Code e No Code;
 Desenvolver agentes inteligentes;
 Discutir aspectos éticos, privacidade e segurança na IA.
-📅 Conteúdo da disciplina
+
+
+📅 *Conteúdo da disciplina*
+
 Unidade I – Fundamentos
 Introdução à IA Generativa;
 Modelos de Linguagem (LLMs);
@@ -43,7 +46,8 @@ Viés algorítmico;
 Responsabilidade social;
 Projeto Final.
 
-🛠️ Ferramentas utilizadas
+
+🛠️ *Ferramentas utilizadas*
 
 Durante a disciplina serão utilizadas diversas tecnologias, entre elas:
 
@@ -66,11 +70,11 @@ Os recursos poderão ser atualizados conforme a evolução das tecnologias de In
 README.md
 Cada pasta será atualizada durante o semestre conforme novas atividades forem sendo propostas.
 
-🎓 Projeto Final
+🎓 *Projeto Final*
 
 Ao final da disciplina será desenvolvido um projeto prático envolvendo IA, aplicando os conhecimentos adquiridos durante o semestre e apresentando uma solução inteligente desenvolvida em grupo.
 
-👩‍🏫 Informações da disciplina
+👩‍🏫 *Informações da disciplina*
 
 Disciplina: Tendências em Ciência da Computação
 
