@@ -1,4 +1,5 @@
 # Tendências em ciência da computação
+
 🚀 Tendências em Ciência da Computação 2026
 
 Repositório da disciplina Tendências em Ciência da Computação, ministrada pela Prof.ª Kadidja Valéria, com foco em Engenharia de Prompt, Inteligência Artificial Generativa, Programação Assistida por IA, Low Code/No Code e Agentes Inteligentes.
