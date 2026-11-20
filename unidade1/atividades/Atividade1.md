@@ -6,4 +6,14 @@
 - **Professora:** Kadidja Valéria Reginaldo de Oliveira
 - **Aluno:** João Ricardo Barbosa Matos
 - **Matrícula:** 33306109
-- **Ferramenta de IA utilizada:** ChatGPT
+- **Ferramenta de IA utilizada:** ChatGPT e DeepSeek
+
+
+# Perguntas:
+
+- **1. Onde a IA está presente neste app?**
+- **2. Qual problema ela procura resolver?**
+- **3. Quais dados provavelmente são utilizados?**
+- **4. Qual benefício direto para o usuário?**
+- **5. Existe algum risco ou limitação observável?**
+- 
