@@ -188,5 +188,5 @@ O integrante aprendeu que a **qualidade da resposta depende diretamente da estru
 
 ## 14. Link
 
-- [Repositório da disciplina](https://github.com/[usuario]/[repositorio])
-- [Arquivo no GitHub](https://github.com/[usuario]/[repositorio]/blob/main/aula-02/engenharia-de-prompt.md)
+- [Repositório da disciplina]([https://github.com/[usuario]/[repositorio]](https://github.com/matosjoaoricardo-gif/tendencias_em_ciencia_da_computacao_JR))
+- [Arquivo no GitHub]([https://github.com/[usuario]/[repositorio]/blob/main/aula-02/engenharia-de-prompt.md](https://github.com/matosjoaoricardo-gif/tendencias_em_ciencia_da_computacao_JR/edit/main/unidade1/atividades/atividade2.md))
