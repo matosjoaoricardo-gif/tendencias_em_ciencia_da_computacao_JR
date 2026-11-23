@@ -1,4 +1,4 @@
-## Refinamento de prompts - Atividade
+# Refinamento de prompts - Atividade
 
 ## 1. Identificação:
 
